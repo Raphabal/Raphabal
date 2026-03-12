@@ -1,9 +1,25 @@
 <h1 align="center">Hi 👋, I'm Raphael</h1>
 <h3 align="center">Apaixonado por analise de dados</h3>
 
-- 🌱 I’m currently learning **Machine Learning & Estatistic**
+Hi 👋, I'm Raphael
 
-- 💬 Ask me about **Excel, Python, Machine Learning, Power BI and SQL**
+Data Analyst focused on financial data, customer behavior and business intelligence.
+
+I specialize in transforming data into insights that support strategic decision-making through analytics, dashboards and data modeling.
+
+🔎 Areas of work
+• Financial data analysis  
+• Customer behavior and churn analysis  
+• Data visualization and BI dashboards  
+• Data cleaning and data modeling  
+• Machine learning experimentation
+
+🛠 Technologies
+Python | SQL | Power BI | Excel | Pandas | NumPy | Matplotlib | Seaborn
+
+📈 Currently expanding my knowledge in Machine Learning, Statistics and AI.
+
+Always interested in collaborating on data, analytics and AI projects.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
