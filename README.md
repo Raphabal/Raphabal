@@ -3,16 +3,9 @@
 
 Hi 👋, I'm Raphael
 
-Data Analyst focused on financial data, customer behavior and business intelligence.
+Data Analyst focused on financial analytics, business intelligence and data visualization.  
 
-I specialize in transforming data into insights that support strategic decision-making through analytics, dashboards and data modeling.
-
-🔎 Areas of work
-• Financial data analysis  
-• Customer behavior and churn analysis  
-• Data visualization and BI dashboards  
-• Data cleaning and data modeling  
-• Machine learning experimentation
+I work with Python, SQL and Power BI to transform data into actionable insights and support data-driven decision making.
 
 🛠 Technologies
 Python | SQL | Power BI | Excel | Pandas | NumPy | Matplotlib | Seaborn
